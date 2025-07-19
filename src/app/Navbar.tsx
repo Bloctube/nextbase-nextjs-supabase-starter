@@ -115,6 +115,11 @@ export const ExternalNavigation = () => {
             Premium Nextbase Starter Kits <ExternalLinkIcon />
           </Button>
         </Link>
+        <Link 
+          href="/create-listing"
+        >
+          Post an Item
+        </Link>
       </nav>
     </header>
   );
